@@ -1,4 +1,6 @@
 # Batalha Naval
+Livia Diogo Martins Pinto - 10737584
+Julia Coutinho Ribeiro -10410620
 
 Projeto de refatoracao de POO 2026-1.
 
